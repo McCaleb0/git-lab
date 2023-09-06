@@ -42,4 +42,6 @@ Answer 11: The push gets rejected because the remote file has work that
 is not included in the local file.  
   
 Answer 12: The changes I made online were reflected in my local README.md  
-file after I ran the git pull command.
+file after I ran the git pull command.  
+  
+Answer 13: .  ..  Labs  git-lab-2  
